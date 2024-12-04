@@ -289,7 +289,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: url(../img/img/banner.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -304,6 +304,19 @@ a.active {
     height: 100vh;
 }
 
+.table-cell>h4{
+    font-family: 'Apple SD Gothic Neo';
+    font-weight: 800;
+}
+
+.table-cell>h1{
+    font-family: 'Apple SD Gothic Neo';
+    font-weight: 800;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px gray;
+    color: #000;
+    padding-bottom: 400px;
+}
 
 /* about section
 ==================================================*/
