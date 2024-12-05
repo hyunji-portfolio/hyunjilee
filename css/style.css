@@ -724,7 +724,9 @@ a.active {
         font-size: 50px;
         line-height: 50px;
     }
-
+.table-cell>h1{
+	font-size: 40px;
+}
     .about-border {
         width: calc(90% - 50px);
     }
